@@ -16,5 +16,5 @@ Funciona no computador e no celular, em modo claro ou escuro, e permite navegar 
 O nome, o CPF e os resultados de cada simulado (completude, acertos e percentual) são enviados a uma **planilha privada** do organizador e **não são publicados neste repositório nem no site**. Pedidos de acesso, correção ou exclusão de dados podem ser feitos ao organizador.
 
 ## Conteúdo
-- 175 questões: 81 criadas a partir do texto das Normas Globais e 94 adaptadas do material "Preparatório CIA I".
+- 305 questões: 211 criadas a partir do texto das Normas Globais (pelo menos 20 novas por Domínio na versão 1.3) e 94 adaptadas do material "Preparatório CIA I".
 - O material não é oficial do IIA nem o substitui. CIA® e Global Internal Audit Standards™ são marcas do The Institute of Internal Auditors.
